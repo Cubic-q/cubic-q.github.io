@@ -9,8 +9,8 @@ profile:
   image: qian_wang.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Rm 825, Ho Sin-Hang Engineering Building</p>
-    <p>The Chinese University of Hong Kong,</p>
+    <p>Rm 825, SHB</p>
+    <p>CUHK</p>
     <p>Hong Kong SAR, China</p>
 
 news: true  # includes a list of news items
