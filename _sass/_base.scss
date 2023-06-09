@@ -118,9 +118,9 @@ blockquote {
   width: 100%;
 
   .address {
-    margin-right: auto;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    float: right;
+    // margin-bottom: 5px;
+    // margin-top: 5px;
     font-family: monospace;
 
     p {
