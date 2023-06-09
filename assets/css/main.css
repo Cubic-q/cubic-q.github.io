@@ -223,7 +223,6 @@ blockquote {
   width: 100%;
 }
 .profile .address {
-  float: right;
   font-family: monospace;
 }
 .profile .address p {
