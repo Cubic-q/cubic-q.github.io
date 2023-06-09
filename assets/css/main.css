@@ -223,9 +223,7 @@ blockquote {
   width: 100%;
 }
 .profile .address {
-  margin-right: auto;
-  margin-bottom: 5px;
-  margin-top: 5px;
+  float: right;
   font-family: monospace;
 }
 .profile .address p {
