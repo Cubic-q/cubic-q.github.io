@@ -9,8 +9,7 @@ profile:
   image: qian_wang.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Rm 825, SHB</p>
-    <p>CUHK</p>
+    <p>Rm 825, SHB, CUHK</p>
     <p>Hong Kong SAR, China</p>
 
 news: true  # includes a list of news items
