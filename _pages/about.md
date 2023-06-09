@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Rm 825, Ho Sin-Hang Engineering Building</p>
-   # <p>Ho Sin-Hang Engineering Building,</p>
-    <p>The Chinese University of Hong Kong, Hong Kong SAR, China</p>
+    <p>The Chinese University of Hong Kong,</p>
+    <p>Hong Kong SAR, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
