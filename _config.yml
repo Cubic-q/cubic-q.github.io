@@ -289,7 +289,7 @@ scholar:
   sort_by: year
   group_by: type
   type_order: [article,INPROCEEDINGS]
-  type_names: 
+  #type_names: 
   replace_strings: true
   join_strings: true
 
