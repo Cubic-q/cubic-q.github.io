@@ -29,7 +29,7 @@
         
 
 - title: Experience
-  type: list
+  type: time_table
   contents:
     - title: Non-tenured Associate Professor
       institution: School of Communication Engineering, Hangzhou Dianzi University
