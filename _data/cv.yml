@@ -31,10 +31,6 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Non-tenured Associate Professor
-       institution: School of Communication Engineering, Hangzhou Dianzi University
-       year: 2024-present
-
     - title: Postdoctoral Fellow
       institution: Department of Information Engineering, The Chinese University of Hong Kong
       year: 2021 - 2024
@@ -52,7 +48,9 @@
     #     - Description 1.
     #     - Description 2.
 
-
+    # - title: Director
+    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    #   year: 1917-1933
 
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
